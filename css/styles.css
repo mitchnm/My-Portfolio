@@ -5,16 +5,17 @@ img  {
 img  {
    float: right;
 }
-.sans  {
+.sans p {
    font-family: sans-serif;
 }
 .test-box  {
-   border: 2px solid red; 
+   border: 3px solid red;
 }
 h1   {
    text-align: center;
 }
 body  {
    background: url("background3.jpg");
-   background-size:  contain;
+   background-size:  cover;
+   font-size: 22px;
 }
