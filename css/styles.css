@@ -16,6 +16,9 @@ h1   {
 }
 body  {
    background: url("background3.jpg");
-   background-size:  cover;
+   background-size: cover;
    font-size: 22px;
+}
+.bold  {
+   font-weight: bold;
 }
