@@ -12,6 +12,6 @@
 ## Support and contact details
 {if there are any issues contact me through my email "mitchndungu21@gmail.com"}
 ## Live site link on github pages
-
+{https://mitchnm.github.io/My-Portfolio/}
 ### License
 *Copyright (c) {year} **{MIT License}**
