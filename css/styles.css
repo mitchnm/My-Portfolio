@@ -10,6 +10,7 @@ img  {
 }
 .test-box  {
    border: 3px solid red;
+   background-color: purple;
 }
 h1  {
    text-align: center;
